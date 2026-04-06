@@ -35,6 +35,8 @@ Experienced across the full lifecycle — from architecture design to production
 - Migrated logging pipeline to **Databricks**, reducing time-to-market for data features by up to **2.5x**  
 - Contributed to attribution systems resulting in **+13–16% performance uplift**  
 - Developed high-performance Sentry proxy handling **5000 RPS** with ~50MB memory usage  
+- Introduced event-driven patterns into legacy PHP monolith by implementing Kafka-based daemon interfaces for event consumption  
+- Designed and implemented a **savepoint mechanism** for transferring player progress between environments, enabling safer development workflows and reusable cross-service functionality  
 - Improved CI/CD pipelines (GitLab, DeployFlow), increasing deployment stability  
 - Built scalable asset pipeline (S3 + CDN) for Kubernetes environments  
 - Developed lightweight **Go service** for release routing with high observability  
